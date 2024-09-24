@@ -1,0 +1,7 @@
+requests~=2.32.3
+SpeechRecognition
+pygame~=2.6.0
+gTTS~=2.5.3
+PyAutoGUI~=0.9.54
+distutils-pytest~=0.2.1
+setuptools~=75.1.0
